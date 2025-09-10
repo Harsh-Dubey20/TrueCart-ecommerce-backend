@@ -1,4 +1,4 @@
-E-Store - A Full Stack E-commerce Platform (Backend)
+TrueCart - A Full Stack E-commerce Platform (Backend)
 E-Store is a comprehensive e-commerce platform built to demonstrate proficiency in modern full-stack development. This repository contains the backend component of the application, which serves as a robust and secure foundation for a dynamic user interface. The backend is built with Java Spring Boot, providing a RESTful API for all core e-commerce functionalities.
 
 Technologies Used
